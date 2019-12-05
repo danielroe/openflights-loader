@@ -48,7 +48,15 @@ It is not produced by OpenFlights - check them out [here](https://openflights.or
    }
    ```
 
-2. If using TypeScript, you may add the following declaration for typed imports:
+2. Import and use. You can download data from [here](https://openflights.org/data.html).
+
+   ```ts
+   import airports from './airports.dat'
+
+   console.log(airports[0].name)
+   ```
+
+3. If using TypeScript, you may add the following declaration for typed imports:
 
    ```ts
    declare module '*/airports.dat' {
