@@ -44,7 +44,7 @@ export type Airport = {
 }
 
 const loader: loader.Loader = function(contents) {
-  this.cacheable && this.cacheable(false)
+  this.cacheable && this.cacheable(true)
   this.addDependency(this.resourcePath)
 
   const airports: Airport[] = []
