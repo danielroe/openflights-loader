@@ -1,6 +1,6 @@
 {
   "name": "openflights-loader",
-  "version": "0.1.13",
+  "version": "0.1.1",
   "description": "A webpack loader for data in the OpenFlights format.",
   "repository": "danielroe/openflights-loader",
   "license": "MIT",
