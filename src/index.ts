@@ -43,7 +43,7 @@ export type Airport = {
   source?: 'OurAirports' | 'Legacy' | 'User';
 }
 
-const loader: loader.Loader = function(contents) {
+const airportLoader: loader.Loader = function(contents) {
   this.cacheable && this.cacheable(true)
   this.addDependency(this.resourcePath)
 
@@ -77,6 +77,6 @@ const loader: loader.Loader = function(contents) {
   return stringify(airports)
 }
 
-module.exports = loader
+module.exports = airportLoader
 
 module.exports.raw = true
