@@ -20,7 +20,6 @@
 <a href="https://lgtm.com/projects/g/danielroe/openflights-loader">
     <img alt="" src="https://flat.badgen.net/lgtm/grade/g/danielroe/openflights-loader">
 </a>
-
 <a href="https://npmjs.com/package/openflights-loader">
     <img alt="" src="https://img.shields.io/npm/dt/openflights-loader.svg?style=flat-square">
 </a>
@@ -30,7 +29,7 @@
 
 This Webpack loader allows you to load [OpenFlights formatted data](https://openflights.org/data.html).
 
-It is not produced by OpenFlights - check them out [here]](https://openflights.org/) and [here](https://github.com/jpatokal/openflights/)!
+It is not produced by OpenFlights - check them out [here](https://openflights.org/) and [here](https://github.com/jpatokal/openflights/)!
 
 1. Add loader to your Webpack config.
 
