@@ -39,6 +39,6 @@
     "jest": "^25.1.0",
     "standard-version": "^7.1.0",
     "typescript": "~3.8",
-    "webpack": "^4.42.0"
+    "webpack": "^4.42.1"
   }
 }
