@@ -36,13 +36,13 @@
     "@typescript-eslint/eslint-plugin": "^2.25.0",
     "@typescript-eslint/parser": "^2.25.0",
     "eslint": "^6.8.0",
-    "jest": "^25.1.0",
+    "jest": "^25.2.3",
     "standard-version": "^7.1.0",
     "typescript": "~3.8",
     "webpack": "^4.42.1"
   },
   "resolutions": {
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.5",
     "acorn": ">=7.1.1"
   }
 }
