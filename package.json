@@ -40,5 +40,9 @@
     "standard-version": "^7.1.0",
     "typescript": "~3.8",
     "webpack": "^4.42.1"
+  },
+  "resolutions": {
+    "minimist": ">=1.2.2",
+    "acorn": ">=7.1.1"
   }
 }
