@@ -39,7 +39,7 @@
     "jest": "^25.4.0",
     "standard-version": "^7.1.0",
     "typescript": "~3.8",
-    "webpack": "^4.42.1"
+    "webpack": "^4.43.0"
   },
   "resolutions": {
     "minimist": ">=1.2.5",
