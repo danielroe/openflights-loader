@@ -31,7 +31,7 @@
     "test": "yarn lint"
   },
   "devDependencies": {
-    "@types/jest": "^25.2.3",
+    "@types/jest": "^26.0.0",
     "@types/webpack": "^4.41.13",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
